@@ -1,5 +1,5 @@
 {
   "name": "spread-radar",
-  "main": "worker.js",
+  "main": "worker-new.js",
   "compatibility_date": "2026-09-10"
 }
